@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "24547104-8037-4879-98b8-41beb40ac6e5",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1761636036851"
+        }
+      },
+      "favorite": {
+        "name": "training.jxovqn8.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://rajuedlar:Swapnaraj%404714@training.jxovqn8.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "35f65872-16e2-468b-8e27-e424d777f126",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1763359243102"
+        }
+      },
+      "favorite": {
+        "name": ""
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
